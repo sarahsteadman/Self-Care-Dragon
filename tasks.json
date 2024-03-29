@@ -1,0 +1,77 @@
+{
+    "tasks": {
+        "1": {
+            "id": "1",
+            "task": "Make your bed"
+        },
+        "2": {
+            "id": "2",
+            "task": "Drink some water"
+        },
+        "3": {
+            "id": "3",
+            "task": "Exercise"
+        },
+        "4": {
+            "id": "4",
+            "task": "Go outside"
+        },
+        "5": {
+            "id": "5",
+            "task": "Look at the sky for 10 minutes"
+        },
+        "6": {
+            "id": "6",
+            "task": "Water the plants"
+        },
+        "7": {
+            "id": "7",
+            "task": "Write in your journal"
+        },
+        "8": {
+            "id": "8",
+            "task": "Sit by a full spectrum light"
+        },
+        "9": {
+            "id": "9",
+            "task": "Text a friend something funny"
+        },
+        "10": {
+            "id": "10",
+            "task": "Take your medicine"
+        },
+        "11": {
+            "id": "11",
+            "task": "Listen to a conference talk"
+        },
+        "12": {
+            "id": "12",
+            "task": "Read your scriptures"
+        }
+    },
+    "taskLists": {
+        "everyDay": [
+            "1",
+            "2",
+            "3",
+            "10",
+            "12"
+        ],
+        "clear": [
+            "4",
+            "5",
+            "6"
+        ],
+        "clouds": [
+            "4",
+            "7",
+            "8",
+            "11"
+        ],
+        "indoor": [
+            "7",
+            "8",
+            "9"
+        ]
+    }
+}
